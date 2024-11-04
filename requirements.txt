@@ -21,4 +21,4 @@ opencensus-ext-azure==1.1.13
 whisper-timestamped
 certifi
 spacy
-dotenv
+python-dotenv
